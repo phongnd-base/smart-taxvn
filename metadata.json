@@ -1,0 +1,5 @@
+{
+  "name": "TaxVN 2025 - Tính Thuế & Lương",
+  "description": "Ứng dụng tính thuế TNCN, lương Gross/Net chuẩn quy định 2025-2026. Tùy chỉnh mức giảm trừ gia cảnh, lương cơ sở. Tích hợp AI tư vấn luật thuế mới nhất.",
+  "requestFramePermissions": []
+}
